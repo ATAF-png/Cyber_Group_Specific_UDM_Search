@@ -1,0 +1,3 @@
+metadata.event_type = "FILE_MODIFICATION"
+principal.platform = "LINUX"
+re.regex(target.file.full_path, `ld\.so\.preload$`)
