@@ -1,0 +1,3 @@
+metadata.event_type = "SERVICE_CREATION"
+re.regex(security_result.summary, "Windows User Service") nocase
+security_result.category = "SOFTWARE_MALICIOUS"
