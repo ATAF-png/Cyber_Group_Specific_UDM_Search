@@ -1,0 +1,4 @@
+metadata.event_type = "REGISTRY_MODIFICATION"
+target.registry.registry_key = "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"
+target.registry.registry_value_name = "DisableRestrictedAdmin"
+target.registry.registry_value_data = "0"
